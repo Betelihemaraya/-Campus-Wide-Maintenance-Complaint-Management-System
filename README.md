@@ -235,7 +235,7 @@ The MIT License allows you to:
 
 ## 👨‍💻 Author Information
 
-**Betelihem Araya**
+**Developed As a Team but Betelihem Araya (Team Leader & Developer)**
 - **GitHub**: [https://github.com/Betelihemaraya](https://github.com/Betelihemaraya)
 - **LinkedIn**: [https://linkedin.com/in/betelihem-araya](https://linkedin.com/in/betelihem-araya)
 
